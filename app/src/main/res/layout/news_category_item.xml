@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="150dp"
+    android:padding="2dp" >
+
+    <ImageView
+        android:id="@+id/ivNewsCategory"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/tin_nong_color"
+        android:scaleType="centerCrop" >
+    </ImageView>
+
+    <TextView
+        android:id="@+id/tvNewsCategory"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="5dp"
+        android:background="#80000000"
+        android:gravity="center"
+        android:text="Technology"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        android:textStyle="bold" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/tvId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:visibility="gone" >
+    </TextView>
+
+</RelativeLayout>

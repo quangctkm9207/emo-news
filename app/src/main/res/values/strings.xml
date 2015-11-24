@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Đọc báo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="CategoryDone">Bắt đầu khởi tạo</string>
+    <string name="title_activity_main_screen">MainScreenActivity</string>
+    <string name="title_section1">Tin</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="pressure">Áp suất: </string>
+    <string name="humidity">Độ ẩm: </string>
+    <string name="wind">Gió: </string>
+    <string name="sunrise">Bình minh: </string>
+    <string name="sunset">Hoàng hôn: </string>
+    <string name="forecast">Dự báo thời tiết</string>
+    <string name="view_full">ĐỌC TOÀN BỘ...</string>
+    <string name="rate_us">Đánh giá hoặc để lại bình luận</string>
+    <string name="send_feedback">Gửi ý kiến qua email</string>
+    <string name="help">Trợ giúp</string>
+    <string name="emo_pass">Welcome to EmoPass Studio!</string>
+    <string name="title_activity_test">TestAct</string>
+
+</resources>

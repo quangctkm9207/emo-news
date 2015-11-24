@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="swipe_color_1">#EF5350</color>
+    <color name="swipe_color_2">#2196F3</color>
+    <color name="swipe_color_3">#FF9800</color>
+    <color name="swipe_color_4">#4CAF50</color>
+    
+     <color name="actionbar_text">#9d9d9d</color>
+
+</resources>
